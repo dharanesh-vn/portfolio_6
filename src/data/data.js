@@ -1,5 +1,6 @@
 // All your personal data goes here
 
+import profileImage from '../assets/profile.jpg';
 export const personalData = {
   name: "Jaison J P",
   profile: '/src/assets/profile.jpg', // Path to your profile picture
