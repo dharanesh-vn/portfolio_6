@@ -3,7 +3,7 @@
 import profileImage from '../assets/profile.jpg';
 export const personalData = {
   name: "Jaison J P",
-  profile: '/src/assets/profile.jpg', // Path to your profile picture
+  profile: profileImage,
   designation: "Software Developer & Data Science Enthusiast",
   description: "Currently pursuing my M.Sc in Decision and Computing Sciences. I have a strong foundation in full-stack development, database management, and problem-solving, with a keen interest in leveraging data to drive insights and solutions.",
   email: "jaijoy888@gmail.com",
